@@ -1,0 +1,30 @@
+_repo: A-Speckled-Bird_36029
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36029-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Evans, Augusta J. (Augusta Jane)
+    aliases:
+    - Wilson, Augusta J. Evans
+    - Wilson, Augusta Evans
+    - Wilson, Augusta Jane Evans
+    birthdate: 1835
+    deathdate: 1909
+    gutenberg_agent_id: '1399'
+    url: http://www.gutenberg.org/2009/agents/1399
+description: ''
+gutenberg_issued: '2011-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36029'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+title: A Speckled Bird
+url: http://www.gutenberg.org/ebooks/36029
